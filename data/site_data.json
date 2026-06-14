@@ -1,0 +1,94 @@
+{
+    "profile": {
+        "name": "㉿ndkxdeka",
+        "title": "Home | Me Profile",
+        "subtitle": "DeKa Cute",
+        "avatar": "https:\/\/files.catbox.moe\/47hg73.png"
+    },
+    "social_links": [
+        {
+            "name": "TikTok",
+            "url": "https:\/\/tiktok.com\/@dekak15",
+            "icon": "fa-brands fa-tiktok",
+            "color": "#3b82f6"
+        },
+        {
+            "name": "Telegram",
+            "url": "https:\/\/t.me\/dekadevz",
+            "icon": "fa-brands fa-telegram",
+            "color": "#3b82f6"
+        },
+        {
+            "name": "Facebook",
+            "url": "https:\/\/fb.com\/dekadevz",
+            "icon": "fa-brands fa-facebook",
+            "color": "#3b82f6"
+        },
+        {
+            "name": "Discord",
+            "url": "https:\/\/discord.gg\/Upwa8bcH",
+            "icon": "fa-brands fa-discord",
+            "color": "#3b82f6"
+        }
+    ],
+    "navbar_cards": [
+        {
+            "title": "DeKa",
+            "subtitle": "TELEGRAM",
+            "url": "https:\/\/t.me\/dekadevz",
+            "icon": "fa-brands fa-telegram"
+        },
+        {
+            "title": "Download File",
+            "subtitle": "Website",
+            "url": "https:\/\/deka-file.onrender.com",
+            "icon": "fa-solid fa-link"
+        }
+    ],
+    "categories": [],
+    "music": {
+        "playlist": [
+            "\/music\/camonem.mp3",
+            "\/music\/emthuacota.mp3",
+            "\/music\/henhonhungkhongyeu.mp3",
+            "\/music\/luytinh.mp3",
+            "\/music\/moloichoem.mp3",
+            "\/music\/phimbanguoi.mp3"
+        ],
+        "song_names": [
+            "Cảm Ơn Em (Style Huy PT Remix)",
+            "Em Thua Cô Ta Remix (Bản Chuẩn TikTok)",
+            "Hẹn Hò Nhưng Không Yêu (LD Remix)",
+            "Lụy Tình (Style Huy PT Remix)",
+            "Mở Lối Cho Em (Style Huy PT Remix)",
+            "Phim Ba Người Remix (Bản Hot TikTok)"
+        ]
+    },
+    "background": {
+        "type": "image",
+        "url": "https:\/\/sf-static.upanhlaylink.com\/img\/image_20260325dfb963723fc036a212237025f8df9876.jpg",
+        "mobile_url": "\/uploads\/background\/mobile_1781395817_9028.jpg"
+    },
+    "footer_text": "@luanori",
+    "site_info": {
+        "site_name": "Home | Me Profile",
+        "site_title": "DeKa Profile",
+        "site_description": "DeKa",
+        "site_keywords": "DeKa",
+        "footer_text": "㉿ ndkxdeka",
+        "brand_first": "㉿ NDK X",
+        "brand_second": "DEKA"
+    },
+    "sidebar_menu": [
+        {
+            "title": "Home",
+            "icon": "fa-solid fa-home",
+            "url": "\/"
+        },
+        {
+            "title": "Liên Hệ Admin",
+            "icon": "fa-brands fa-telegram",
+            "url": "https:\/\/t.me\/dekadevz"
+        }
+    ]
+}
